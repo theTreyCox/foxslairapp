@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/treycox/00VaporFoxLair/TheFoxsLair/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include"
+    export *
+}
